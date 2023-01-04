@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  height: 132px;
+  background: black;
+  width: 100%;
+  margin: 0;
+  border-bottom: #B70B0B;
+  border-bottom-width: 4px;
+  align-items: center;
+  padding-left: 300px;
+}
+
+.header-button {
+  background: #B70B0B;
+  color: white;
+  font-size: 32px;
+  border-radius: 1px;
+  margin-left: 8px;
+  height: 63px;
+  width: 174px;
+}
+
+.title-text {
+  color: white;
+  font-size: 64px;
+}
+
+.nav-list {
+  padding: 0;
+}

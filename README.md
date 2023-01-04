@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## API and DB
+
+We are using the https://open5e.com/ Dungeons and Dragons API as well as a Firestore db for storing Character Creation data.
+
+This is not the only application that will be looking at and manipulating the firestore data.
